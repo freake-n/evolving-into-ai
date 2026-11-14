@@ -1,0 +1,14 @@
+[project]
+name = "evolving-into-ai"
+version = "0.1.0"
+description = "AI Engineer learning path"
+readme = "README.md"
+authors = [
+    { name = "Sabuj Dutta", email = "sabuj.dutta02004@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=3.51.0",
+    "python-dotenv>=1.2.4",
+]
+
